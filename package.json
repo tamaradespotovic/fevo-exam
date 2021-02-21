@@ -1,0 +1,13 @@
+{
+  "name": "fevo-exam",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
